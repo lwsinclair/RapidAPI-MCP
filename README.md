@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/myownipgit-rapidapi-mcp-badge.png)](https://mseep.ai/app/myownipgit-rapidapi-mcp)
+
 # RapidAPI MCP Server
 
 This repository contains an implementation of an MCP Server for interfacing with the RapidAPI Global Patent API and storing patent data in a SQLite database.
